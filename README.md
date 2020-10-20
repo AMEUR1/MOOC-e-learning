@@ -7,8 +7,8 @@ created by: AMEUR/MOHRACHI/ABANE
 
 ## Technologies used
 
-### Laravel
-### MySQL
+### +Laravel
+### +MySQL
 
 ## Thank You
 
